@@ -11,7 +11,7 @@ def my_function(arg1, arg2):   # Defines a new function
 # In[4]:
 
 
-my_function(5, 10)
+my_function(4, 10)
 
 
 # In[ ]:
